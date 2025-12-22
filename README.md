@@ -30,6 +30,16 @@ Generate Multiple Versions:
 Generate multiple versions of the same prompt with slight variations to compare how the video output differs based on the phrasing of the prompt.
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
+# PROMPTS AND THEIR VIDEO OUTPUTS:
+# Output:
+# prompt:
+create a video of the  a man walking in  the steet during morning
+# Output:
+
+
+https://github.com/user-attachments/assets/d975caef-bb2a-493f-8059-207effa6f9cc
+
+
 
 
 # Result: The Prompt of the above task executed successfully
@@ -42,4 +52,3 @@ Save different versions of the videos and compare the results to understand how 
 
 
 
-# Result:
