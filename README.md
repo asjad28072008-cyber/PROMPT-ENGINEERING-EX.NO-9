@@ -42,14 +42,26 @@ https://github.com/user-attachments/assets/d975caef-bb2a-493f-8059-207effa6f9cc
 
 # output:
 
+https://github.com/user-attachments/assets/c641b4d8-499c-4a71-9763-70c6d7dd90a7
+
+
+
 # prompt 3: A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene
 
 # output:
+
+https://github.com/user-attachments/assets/163ed766-e930-4423-860d-9c8d1f80eccf
+
+
 
 # prompt 4: A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene with the theif running into the car after his partner drives by him asking for help with a joker film like scene with so much money in his pockets that his pockets are full the road is slipery but there is public walking in the footpath.
 
 
 # output:
+
+https://github.com/user-attachments/assets/f8519714-0c73-4c9a-92b1-2b3f5ed119c5
+
+
 
 
 # Comparison Table of Prompt 
