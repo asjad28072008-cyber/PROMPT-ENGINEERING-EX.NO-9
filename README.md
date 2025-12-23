@@ -1,4 +1,4 @@
-# Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
+hu# Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
 # Date: 
 # Register no.:
@@ -32,14 +32,44 @@ Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 # PROMPTS AND THEIR VIDEO OUTPUTS:
 # Output:
-# prompt:
+# prompt1:
 create a video of the  a man walking in  the steet during morning
-# Output:
-
+# Output: 
 
 https://github.com/user-attachments/assets/d975caef-bb2a-493f-8059-207effa6f9cc
 
+# prompt 2: create a video of the a man walking in the steet during morning with flowes in his hands wearing red jacket and white shoes birds flying around him.with the mood being sunny ,the man is walking with happyness in his eyes and sense of freedom in his walk
 
+# output:
+
+# prompt 3: A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene
+
+# output:
+
+# prompt 4: A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene with the theif running into the car after his partner drives by him asking for help with a joker film like scene with so much money in his pockets that his pockets are full the road is slipery but there is public walking in the footpath.
+
+
+# output:
+
+
+# Comparison Table of Prompt 
+
+| Aspect                       | Prompt 1       | Prompt 2                  | Prompt 3                 | Prompt 4                          |
+| ---------------------------- | -------------- | ------------------------- | ------------------------ | --------------------------------- |
+| **Basic Idea**               | Man walking    | Man walking with details  | Car speeding             | Car chase with story              |
+| **Detail Level**             | Very low       | Medium–high               | Medium                   | Very high                         |
+| **Subject Description**      | Generic man    | Man with flowers, clothes | Car                      | Thief, partner, public            |
+| **Environment**              | Morning street | Sunny morning street      | Neon-lit city at night   | Neon city, wet roads, footpath    |
+| **Time Setting**             | Morning        | Morning                   | Night                    | Night                             |
+| **Mood / Emotion**           | Neutral        | Happy, free               | Intense, fast-paced      | Chaotic, dramatic                 |
+| **Color & Visual Cues**      | Not specified  | Red jacket, white shoes   | Neon lights, reflections | Neon lights, money, slippery road |
+| **Action Complexity**        | Simple walk    | Walk with symbolism       | High-speed driving       | Chase + interaction               |
+| **Narrative / Story**        | None           | Implied emotion           | Action scene             | Clear story sequence              |
+| **Cinematic Style**          | Basic          | Lifestyle cinematic       | Action cinematic         | Film-level cinematic              |
+| **Crowd Interaction**        | None           | Birds flying              | None                     | Public on footpath                |
+| **Prompt Control**           | Low            | Moderate                  | High                     | Very high                         |
+| **AI Output Predictability** | High (simple)  | High                      | Medium                   | Lower (complex scene)             |
+| **Use Case**                 | Testing AI     | Mood video                | Action clip              | Short film scene                  |
 
 
 # Result: The Prompt of the above task executed successfully
